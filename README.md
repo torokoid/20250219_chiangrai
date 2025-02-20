@@ -231,22 +231,24 @@ p.note { display: none; }
         お使いのブラウザは video タグをサポートしていません。
     </video>
 
+<!--
     <h2>MP4ファイルのダウンロード</h2>
     <a href="画面収録 2025-02-16 20.46.41.mp4" download>動画をダウンロード</a>
+-->
     
     
     
     
-    
-    
+        <h2>MP3ファイルの再生</h2>
     <audio controls>
-        <source src="⑤雪の中で輝くシンデレラ.mp3" type="audio/mpeg">
+        <source src="⑤雪の中で輝くシンデレラ.mp3" type="audio/mp3">
         お使いのブラウザは audio タグをサポートしていません。
     </audio>
 
+<!--
     <h2>MP3ファイルのダウンロード</h2>
     <a href="⑤雪の中で輝くシンデレラ.mp3" download>雪の中で輝くシンデレラ</a>
-
+-->
 
 <br><br><br>
 <h2><span class="yellow">以上、朝のお日様日章旗に始まり街中でバイク観察、最後はオレンジの夕焼けでした。<br>ここまでご覧いただきありがとうございました。</span></h2>
