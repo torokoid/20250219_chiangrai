@@ -240,12 +240,15 @@ p.note { display: none; }
     
     
         <h2>フルコーラス再生</h2>
+<a href="https://torokoid.github.io/20250219_chiangrai/雪の中で輝くシンデレラ.mp3" target="_blank">この文字クリックで別タブ再生します</a>
+
+<!--
     <audio controls>
         <source src="雪の中で輝くシンデレラ.mp3" type="audio/mpeg">
         お使いのブラウザは audio タグをサポートしていません。
     </audio>
 
-<!--
+
     <h2>MP3ファイルのダウンロード</h2>
     <a href="雪の中で輝くシンデレラ.mp3" download>雪の中で輝くシンデレラ</a>
 -->
