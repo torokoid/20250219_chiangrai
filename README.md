@@ -227,7 +227,7 @@ p.note { display: none; }
     
         <h2>メタバース動画(一部のみ)の再生<br>右側の黒衣装がまいてぁさん、青ドレスはダンサーの玖遠さん</h2>
     <video controls width="640">
-        <source src="画面収録 2025-02-16 20.46.41.mp4" type="video/mp4">
+        <source src="snow.mp4" type="video/mp4">
         お使いのブラウザは video タグをサポートしていません。
     </video>
 
