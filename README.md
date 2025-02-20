@@ -167,7 +167,7 @@ p.note { display: none; }
 <h2><span class="yellow">これはトゥクトゥクですね</span></h2>
 <a href="20250219_015.JPG" target="_blank"><img src="20250219_015.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">使われ方はラオスとあまり変わらない様に見えますが、街全体の交通秩序はこっちが上かも</span></h2>
+<h2><span class="yellow">使われ方はラオスとあまり変わらない様に見えますが、街全体の交通秩序はタイの方が上かも</span></h2>
 <a href="20250219_016.JPG" target="_blank"><img src="20250219_016.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">いつもの雑貨屋さんで小物調達</span></h2>
@@ -176,7 +176,7 @@ p.note { display: none; }
 <h2><span class="yellow">感心するのは仏壇の綺麗さ</span></h2>
 <a href="20250219_018.JPG" target="_blank"><img src="20250219_018.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">この領域への労力の掛け方は、圧倒的に上</span></h2>
+<h2><span class="yellow">この領域への労力の掛け方は、圧倒的に日本より上</span></h2>
 <a href="20250219_019.JPG" target="_blank"><img src="20250219_019.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">いつものショッピングモールの駐車場はスクールバスの通過コースに！？</span></h2>
@@ -240,7 +240,7 @@ p.note { display: none; }
     
     
         <h2>フルコーラス再生</h2>
-<h2><a href="https://torokoid.github.io/20250219_chiangrai/雪の中で輝くシンデレラ.mp3" target="_blank">この文字クリックで別タブ再生します</a></h2>
+<h2><a href="https://torokoid.github.io/20250219_chiangrai/maitiyaz.mp3" target="_blank">この文字クリックで再生します</a></h2>
 
 <!--
     <audio controls>
