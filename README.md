@@ -240,7 +240,7 @@ p.note { display: none; }
     
     
         <h2>フルコーラス再生</h2>
-<h2><a href="https://torokoid.github.io/20250219_chiangrai/maitiyaz.mp3" target="_blank">この文字クリックで再生します</a></h2>
+<h2><a href="https://torokoid.github.io/20250219_chiangrai/maitiyaz.mp3" target="_blank">この文字クリックで再生します<br>下の再生ボタンでも同じ曲流します</a></h2>
 
 
     <audio controls>
