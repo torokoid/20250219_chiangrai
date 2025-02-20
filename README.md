@@ -225,7 +225,7 @@ p.note { display: none; }
 <br><br>
 <h2><span class="yellow">最後にメタバース「cluster」内のクリエータ「まいてぁ」さんの一曲</span></h2>
     
-        <h2>MP4ファイルの再生</h2>
+        <h2>メタバース動画(一部のみ)の再生</h2>
     <video controls width="640">
         <source src="画面収録 2025-02-16 20.46.41.mp4" type="video/mp4">
         お使いのブラウザは video タグをサポートしていません。
@@ -239,7 +239,7 @@ p.note { display: none; }
     
     
     
-        <h2>MP3ファイルの再生</h2>
+        <h2>フルコーラス再生</h2>
     <audio controls>
         <source src="⑤雪の中で輝くシンデレラ.mp3" type="audio/mp3">
         お使いのブラウザは audio タグをサポートしていません。
