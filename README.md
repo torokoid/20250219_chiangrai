@@ -223,9 +223,9 @@ p.note { display: none; }
 
     
 <br><br>
-<h2><span class="yellow">最後にメタバース「cluster」内のクリエータ「まいてぁ」さんの一曲</span></h2>
+<h2><span class="yellow">最後にメタバース「cluster」内のクリエータ「まいてゃ」さんの一曲</span></h2>
     
-        <h2>メタバース動画(一部のみ)の再生<br>右側の黒衣装がまいてぁさん、青ドレスはダンサーの玖遠さん</h2>
+        <h2>メタバース動画(一部のみ)の再生<br>右側の黒衣装がまいてゃさん、青ドレスはダンサーの玖遠さん</h2>
     <video controls width="640">
         <source src="snow.mp4" type="video/mp4">
         お使いのブラウザは video タグをサポートしていません。
