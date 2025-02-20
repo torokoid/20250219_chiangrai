@@ -241,7 +241,7 @@ p.note { display: none; }
     
         <h2>フルコーラス再生</h2>
     <audio controls>
-        <source src="⑤雪の中で輝くシンデレラ.mp3" type="audio/mp3">
+        <source src="雪の中で輝くシンデレラ.mp3" type="audio/mp3">
         お使いのブラウザは audio タグをサポートしていません。
     </audio>
 
