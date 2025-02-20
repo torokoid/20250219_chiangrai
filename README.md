@@ -247,7 +247,7 @@ p.note { display: none; }
 
 <!--
     <h2>MP3ファイルのダウンロード</h2>
-    <a href="⑤雪の中で輝くシンデレラ.mp3" download>雪の中で輝くシンデレラ</a>
+    <a href="雪の中で輝くシンデレラ.mp3" download>雪の中で輝くシンデレラ</a>
 -->
 
 <br><br><br>
