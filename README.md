@@ -206,10 +206,10 @@ p.note { display: none; }
 <a href="20250219_031.JPG" target="_blank"><img src="20250219_031.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250219_032.JPG" target="_blank"><img src="20250219_032.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">最後は宇都宮からは見えにくいカノープス</span></h2>
+<h2><span class="yellow">最後は宇都宮からは地平スレスレで見えにくいカノープス</span></h2>
 <a href="20250219_033.JPG" target="_blank"><img src="20250219_033.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">北緯20度近辺でのこの星の高さはGoo!<br>おおいぬ座のみトレースしました</span></h2>
+<h2><span class="yellow">北緯20度近辺でのカノープスは見上げ角が約30度もあります<br>おおいぬ座のみトレースしました</span></h2>
 <a href="20250219_034.JPG" target="_blank"><img src="20250219_034.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br>
