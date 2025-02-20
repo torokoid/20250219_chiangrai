@@ -225,7 +225,7 @@ p.note { display: none; }
 <br><br>
 <h2><span class="yellow">最後にメタバース「cluster」内のクリエータ「まいてぁ」さんの一曲</span></h2>
     
-        <h2>メタバース動画(一部のみ)の再生</h2>
+        <h2>メタバース動画(一部のみ)の再生,右側の黒衣装がまいてぁさん、青ドレスはダンサーの玖遠さん</h2>
     <video controls width="640">
         <source src="画面収録 2025-02-16 20.46.41.mp4" type="video/mp4">
         お使いのブラウザは video タグをサポートしていません。
@@ -240,7 +240,7 @@ p.note { display: none; }
     
     
         <h2>フルコーラス再生</h2>
-<a href="https://torokoid.github.io/20250219_chiangrai/雪の中で輝くシンデレラ.mp3" target="_blank">この文字クリックで別タブ再生します</a>
+<h2><a href="https://torokoid.github.io/20250219_chiangrai/雪の中で輝くシンデレラ.mp3" target="_blank">この文字クリックで別タブ再生します</a></h2>
 
 <!--
     <audio controls>
